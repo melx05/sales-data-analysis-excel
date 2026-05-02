@@ -27,5 +27,5 @@ store to identify trends, customer behavior, and revenue drivers.
 ## Dashboard
 <img width="2200" height="1700" alt="sales-data-analysis-excel (1)-1" src="https://github.com/user-attachments/assets/283510b9-90d3-4ca9-9128-11fd6bd43934" />
 
-##Files 
+## Files 
 - sales_data.xlsx
