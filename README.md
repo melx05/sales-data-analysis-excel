@@ -4,6 +4,13 @@
 ## Overview
 This project analyzes sales data from a consumer electronics
 store to identify trends, customer behavior, and revenue drivers. 
+The goal was to identify underperforming region and high-margin product
+categories to optimize the marketing budget for the next quarter. 
+
+## Data Cleaning & Preparation
+- Removal of duplicates and null values
+- Standardization of city names and categories
+- Creation of calculated columns.
 
 ## Tools Used
 - Microsoft Excel
@@ -19,9 +26,9 @@ store to identify trends, customer behavior, and revenue drivers.
 - Monthly Sales Trend
 
 ## Key Insights
-- Tegucigalpa generates the highest revenue 
-- Camera, Audio and Gaming categories lead in sales
-- Sales show an upward trend over time
+- Tegucigalpa is the top-performing city, contributing 51% of total revenue.  
+- Camera, Audio and Gaming categories lead in sales.
+- Sales show an upward trend over time.
 - Revenue is concentrated in a few key cities.
 
 ## Dashboard
